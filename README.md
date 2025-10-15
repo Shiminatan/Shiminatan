@@ -66,13 +66,12 @@ Me chamo Jonatan Schmitt da Silva, tenho 30 anos e sou natural do Rio Grande do 
 />
 <img 
     align="left" 
-    alt="C#" 
-    title="Git"
+    alt="Csharp" 
+    title="Csharp"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-           
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+ />
 
 <br/>
 <br/>
