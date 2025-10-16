@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Jonatan Schmitt
 
-![Profile Banner](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Profile Banner](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3ppdW93bDJ2cXlkY29peWFweWF3ODZuMDkzc2Jiams1MGFvdHNwZSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ZBythhSiZAoYea6vC2/giphy.gif)
 
 **`Analista Pleno de Sistemas`**
 
@@ -53,5 +53,5 @@ Me chamo Jonatan Schmitt da Silva, tenho 30 anos e sou natural do Rio Grande do 
 
 ### ✨ GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiminatan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiminatan&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="GitHub Streak"/>
 </p>
