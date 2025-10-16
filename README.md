@@ -45,13 +45,13 @@ Me chamo Jonatan Schmitt da Silva, tenho 30 anos e sou natural do Rio Grande do 
 
 ### 📊 Estatísticas GitHub
 <p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=Shiminatan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiminatan&theme=tokyonight&layout=compact&custom_title=Top%20Tecnologias&langs_count=9&" />
+  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=Shiminatan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=3600" />
+  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiminatan&theme=tokyonight&layout=compact&custom_title=Top%20Tecnologias&langs_count=9&cache_seconds=3600" />
 </p>
 
 ---
 
 ### ✨ GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiminatan&theme=tokyonight&hide_border=true&" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiminatan&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="GitHub Streak"/>
 </p>
