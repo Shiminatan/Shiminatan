@@ -53,5 +53,5 @@ Me chamo Jonatan Schmitt da Silva, tenho 30 anos e sou natural do Rio Grande do 
 
 ### ✨ GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiminatan&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiminatan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
