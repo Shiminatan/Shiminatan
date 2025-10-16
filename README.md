@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Jonatan Schmitt
 
-![Profile Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2t6MmZyYXJsNWx3ZWFhZ291MWRpcXlmemtxcTNhanQxMTR0azBqNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eGlWh8b2oDeSuFjGM6/giphy.gif)
+![Profile Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2t6MmZyYXJsNWx3ZWFhZ291MWRpcXlmemtxcTNhanQxMTR0azBqNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZFR9UV7j0pkSC8mdzi/giphy.gif)
 
 **`Analista Pleno de Sistemas`**
 
