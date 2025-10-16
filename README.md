@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Jonatan Schmitt
 
-![Profile Banner](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3ppdW93bDJ2cXlkY29peWFweWF3ODZuMDkzc2Jiams1MGFvdHNwZSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ZBythhSiZAoYea6vC2/giphy.gif)
+![Profile Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2t6MmZyYXJsNWx3ZWFhZ291MWRpcXlmemtxcTNhanQxMTR0azBqNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eGlWh8b2oDeSuFjGM6/giphy.gif)
 
 **`Analista Pleno de Sistemas`**
 
@@ -10,17 +10,17 @@ Me chamo Jonatan Schmitt da Silva, tenho 30 anos e sou natural do Rio Grande do 
 
 ### 🚀 Sobre mim
 - 🌱 Atualmente estudando **.NET, C#, e desenvolvimento web full-stack**  
-- 💼 Experiência em **integração de sistemas e desenvolvimento de aplicações Windows**  
+- 💼 Experiência em **integração de sistemas via API e desenvolvimento de aplicações em PHP**  
 - 🎯 Objetivo: **crescer como desenvolvedor e contribuir em projetos desafiadores**  
 
 ---
 
 ### 📫 Me encontre
 <p align="left">
-  <a href="https://www.linkedin.com/in/jonatan-schmitt/">
+  <a href="https://www.linkedin.com/in/jonatan-schmitt-silva-28119516b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:shiminatan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Shiminatan">
