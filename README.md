@@ -58,8 +58,8 @@ Me chamo Jonatan Schmitt da Silva, tenho 30 anos e sou natural do Rio Grande do 
 </p>
 
 <p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shiminatan&theme=tokyonight" />
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shiminatan&theme=tokyonight" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shiminatan&theme=tokyonight&percentage=true" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shiminatan&theme=tokyonight&percentage=true" />
 </p>
 
 <p align="center">
