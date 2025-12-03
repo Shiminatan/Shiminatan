@@ -4,14 +4,14 @@
 
 **`Analista Pleno de Sistemas`**
 
-Me chamo Jonatan Schmitt da Silva, tenho 30 anos e sou natural do Rio Grande do Sul. Me formei em 2019 no curso Técnico em Tecnologia da Informação no SENAC. Atualmente, atuo como Analista de Sistema Pleno.  
+Me chamo Jonatan Schmitt da Silva, tenho 30 anos e sou natural do Rio Grande do Sul. Me formei em 2019 no curso Técnico em Tecnologia da Informação no SENAC. Atualmente, atuo como Analista de Sistema Pleno.
 
 ---
 
 ### 🚀 Sobre mim
-- 🌱 Atualmente estudando **.NET, C#, e desenvolvimento web full-stack**  
-- 💼 Experiência em **integração de sistemas via API e desenvolvimento de aplicações em PHP**  
-- 🎯 Objetivo: **crescer como desenvolvedor e contribuir em projetos desafiadores**  
+- 🌱 Atualmente estudando **.NET, C#, e desenvolvimento web full-stack**
+- 💼 Experiência em **integração de sistemas via API e desenvolvimento de aplicações em PHP**
+- 🎯 Objetivo: **crescer como desenvolvedor e contribuir em projetos desafiadores**
 
 ---
 
@@ -43,9 +43,25 @@ Me chamo Jonatan Schmitt da Silva, tenho 30 anos e sou natural do Rio Grande do 
 
 ---
 
-### 📊 Estatísticas GitHub
-<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=Shiminatan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiminatan&theme=tokyonight&layout=compact&custom_title=Top%20Tecnologias&langs_count=9" />
+### 📊 Atividade no GitHub
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shiminatan&theme=tokyo-night&hide_border=true" />
 </p>
 
+---
+
+### 📈 Métricas Extras
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shiminatan&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shiminatan&theme=tokyonight" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shiminatan&theme=tokyonight" />
+</p>
+
+<p align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shiminatan&theme=tokyonight" />
+</p>
